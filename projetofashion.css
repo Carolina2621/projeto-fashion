@@ -1,0 +1,13 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+    padding: 0px;
+}
+#principal {
+    width: 1024px;
+    margin: auto;
+}
+.header-top{
+    height: 50px;
+    background-color: #162028;
+}
